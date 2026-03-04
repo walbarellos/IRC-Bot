@@ -1,3 +1,6 @@
+<img width="747" height="523" alt="image" src="https://github.com/user-attachments/assets/e0b9e952-4cd4-4749-85a0-4fb38a61395b" />
+<img width="705" height="535" alt="image" src="https://github.com/user-attachments/assets/d2650706-d3b4-4172-874c-a8db8844fbcd" />
+
 ```markdown
 # AcreBot 🤖🌿
 Bot IRC para o canal **#Acre** na rede **Rizon**.
@@ -11,13 +14,10 @@ O AcreBot é um bot simples porém poderoso escrito em **Python**, projetado par
 - manter ranking de karma entre usuários
 
 Ele foi construído para ser **leve, extensível e fácil de modificar**.
-<img width="705" height="535" alt="image" src="https://github.com/user-attachments/assets/d2650706-d3b4-4172-874c-a8db8844fbcd" />
 
 ---
-<img width="739" height="513" alt="image" src="https://github.com/user-attachments/assets/cd9055b8-a622-4dba-a03f-dc1f93e2f08b" />
 
 # Funcionalidades
-<img width="747" height="523" alt="image" src="https://github.com/user-attachments/assets/e0b9e952-4cd4-4749-85a0-4fb38a61395b" />
 
 ## 🎮 Mini-jogos
 
